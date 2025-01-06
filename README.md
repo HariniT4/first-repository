@@ -1,1 +1,8 @@
-# first-repository
+public class {
+public Static void main (String [] args) {
+int a=2;
+int b=3;
+c=a+b;
+System.out.println("a+b="+c);
+}
+}
